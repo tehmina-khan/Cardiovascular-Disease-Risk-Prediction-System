@@ -178,7 +178,7 @@ with col2:
             st.success("🎉 You are quite healthy! Keep going — stay active and keep pumping happiness ❤️")
         else:
             if prob < 0.3:
-                label, color = "Low Risk", "green"
+                label, color = "Lowwww Risk", "green"
             elif prob < 0.7:
                 label, color = "Moderate Risk", "orange"
             else:
